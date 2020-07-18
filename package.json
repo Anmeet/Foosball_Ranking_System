@@ -40,7 +40,7 @@
     "eslint-plugin-react": "^5.0.1",
     "express": "^4.13.4",
     "google-maps-react": "^1.0.19",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "logger": "0.0.1",
     "mongoose": "^4.10.2",
     "raven-js": "^2.3.0",
