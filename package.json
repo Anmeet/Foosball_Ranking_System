@@ -65,7 +65,7 @@
     "stylus": "^0.54.5",
     "stylus-loader": "^2.0.0",
     "supertest": "^4.0.2",
-    "validator": "^7.0.0",
+    "validator": "^13.7.0",
     "webpack": "^1.13.0",
     "webpack-dev-middleware": "^1.6.1",
     "webpack-hot-middleware": "^2.10.0"
