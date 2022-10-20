@@ -42,7 +42,7 @@
     "google-maps-react": "^1.0.19",
     "lodash": "^4.17.4",
     "logger": "0.0.1",
-    "mongoose": "^4.10.2",
+    "mongoose": "^4.13.21",
     "raven-js": "^2.3.0",
     "react": "^15.0.2",
     "react-addons-css-transition-group": "^15.0.2",
