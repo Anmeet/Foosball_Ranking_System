@@ -38,7 +38,7 @@
     "eslint": "^2.9.0",
     "eslint-plugin-babel": "^3.2.0",
     "eslint-plugin-react": "^5.0.1",
-    "express": "^4.13.4",
+    "express": "^4.17.3",
     "google-maps-react": "^1.0.19",
     "lodash": "^4.17.4",
     "logger": "0.0.1",
